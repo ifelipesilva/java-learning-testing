@@ -1,4 +1,4 @@
-package FUNDAMENTALS_JAVA;
+package fundamentals;
 
 public class TypeOfData {
   //Values (int, double, float, long)

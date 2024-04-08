@@ -1,4 +1,5 @@
-package FUNDAMENTALS_JAVA;
+package fundamentals;
+
 
 public class RepetitionStructure {
   public static void main(String[] args) {

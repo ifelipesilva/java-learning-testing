@@ -1,5 +1,4 @@
-package FUNDAMENTALS_JAVA;
-
+package fundamentals;
 import java.util.ArrayList;
 import java.util.List;
 

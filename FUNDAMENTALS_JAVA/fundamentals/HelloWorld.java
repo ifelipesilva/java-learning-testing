@@ -1,4 +1,4 @@
-package FUNDAMENTALS_JAVA;
+package fundamentals;
 
 public class HelloWorld {
     public static void main(String[] args) {

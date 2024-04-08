@@ -1,4 +1,4 @@
-package FUNDAMENTALS_JAVA;
+package fundamentals;
 
 import java.util.HashMap;
 import java.util.Map;
