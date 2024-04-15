@@ -11,4 +11,10 @@ public class Student extends Person {
   public void setRegistration(String registration) {
     this.registration = registration;
   }
+
+
+  String printPersonData() {
+    System.out.println(super.printPersonData());
+    return "You're a student.";
+  }
 }

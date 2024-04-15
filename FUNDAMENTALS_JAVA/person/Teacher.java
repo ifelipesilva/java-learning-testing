@@ -13,4 +13,9 @@ public class Teacher extends Person {
   }
 
 
+  String printPersonData() {
+    System.out.println(super.printPersonData());
+    return "You're a teacher.";
+  }
+
 }
